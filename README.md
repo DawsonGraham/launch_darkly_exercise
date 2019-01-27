@@ -9,11 +9,11 @@ __How to Use__
 3. Run the following command from your terminal: `npm start`. If you experience errors here, try running `npm install` and then `npm start`
 4. Click on the underlined text to find out who will win the Super Bowl!
 
-There are currently a total of six unique user keys that are being targeted by the LaunchDarkly feature flag. Those include:
+There is currently a total of six unique user keys that are being targeted by the LaunchDarkly feature flag. Those include:
 
 - 'Los Angeles'
 - 'Rams'
-- 'West Cost'
+- 'West Coast'
 - 'New England'
 - 'Patriots'
 - 'East Coast'
