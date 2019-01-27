@@ -9,10 +9,11 @@
 }
 
 
-/*.Button {
+.Link {
   align-items: center;
   justify-content: center;
-}*/
+  text-decoration: underline;
+}
 
 .App-link {
   color: #61dafb;
